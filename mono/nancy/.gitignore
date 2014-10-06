@@ -1,0 +1,9 @@
+# Binaries:
+NancyServer/bin/
+NancyServer/obj/
+
+# Dependencies:
+packages/
+
+# User files:
+*.user
